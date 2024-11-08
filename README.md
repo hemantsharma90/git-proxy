@@ -9,6 +9,7 @@
 
   <p align="center">
     Deploy custom push protections and policies<br />on top of Git test run
+    Git Run Demo
     <br />
     <br />
     <br />
