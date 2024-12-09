@@ -2,3 +2,4 @@ sample
 Git Proxy Testing
 Sample Testing git proxy
 Adding a test for vcse
+Adding a test from EC2 Instance 
