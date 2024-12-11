@@ -2,4 +2,5 @@ sample
 Git Proxy Testing
 Sample Testing git proxy
 Adding a test for vcse
-Adding a Push Rejected by Git Proxy Authorizer
+Adding a Push Rejected by Git Proxy Authorizeir
+Adding a line for demo session
