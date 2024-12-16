@@ -9,7 +9,7 @@
 
   <p align="center">
     Deploy custom push protections and policies<br />on top of Git test run
-    Git Run Demo
+    Git Run Demo from VCSe
     <br />
     <br />
     <br />
