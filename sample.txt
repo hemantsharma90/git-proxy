@@ -10,6 +10,4 @@ Adding Commit 1
 
 Adding Commit 2
 
-Adding commit 3
-
-Adding for Commit 
+Adding commit 3 
